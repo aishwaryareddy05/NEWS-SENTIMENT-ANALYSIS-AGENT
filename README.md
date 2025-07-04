@@ -134,7 +134,7 @@ streamlit run main.py
 
 ## ✨ Screenshots
 
-<img src="docs/screenshot-dashboard.png" width="80%" alt="Dashboard Overview"/>
+<img src="screenshot-dashboard.png" width="80%" alt="Dashboard Overview"/>
 
 ---
 
