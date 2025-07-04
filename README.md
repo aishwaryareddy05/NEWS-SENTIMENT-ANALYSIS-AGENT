@@ -131,6 +131,12 @@ streamlit run main.py
 ```
 
 ---
+### 🚀 Live Demo
+
+Check out the live app here:  
+🔗 [**NewsAgentAI Dashboard**](https://aishwaryareddy05-news-sentiment-analysis-agent-main-qvonit.streamlit.app/)
+
+> 📌 *Hosted on Streamlit Cloud*
 
 ## ✨ Screenshots
 
