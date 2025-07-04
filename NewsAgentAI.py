@@ -13,7 +13,7 @@ load_dotenv()
 
 class NewsAgentAI:
     def __init__(self):
-        self.api_key = os.getenv("NEWS_API_KEY")
+        self.api_key = os.getenv("NEWS_API_KEY") or st.secrets.get("NEWS_API_KEY") 
         self.base_url = "https://newsapi.org/v2/everything"
 
     def fetch_news(self, query="technology", sources=None, page_size=50):
